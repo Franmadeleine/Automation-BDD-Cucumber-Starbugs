@@ -3,17 +3,17 @@ This is a test automation project based on BDD (Behavior-Driven Development), de
 The tested application is Starbugs, a fictional coffee shop used as the base for automated tests.
 
 **🧪 Technologies used**
-Ruby
+- Ruby
 
-Cucumber
+- Cucumber
 
-Capybara
+- Capybara
 
-RSpec
+- RSpec
 
-Selenium WebDriver
+- Selenium WebDriver
 
-Gherkin
+- Gherkin
 
 🗂️ **Project structure**
 features/ — Scenarios written in Gherkin
