@@ -54,7 +54,4 @@ Screenshot capture
 Use of Scenario Outline and Data Tables
 
 **🎓 Certificate**
-Course completed with certificate: 
-
-[View certificate](https://ude.my/UC-746629a-ac36-4eec-abe4-cd293c9e2a58)
-
+![Certificado BDD](https://github.com/Franmadeleine/Automation-BDD-Cucumber-Starbugs/blob/main/Certificado%20-%20BDD.jpg?raw=true)
